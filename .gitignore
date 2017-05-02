@@ -1,0 +1,7 @@
+# files
+commit.bat
+train.lst.npz
+
+# folds
+trains/*
+trains/
